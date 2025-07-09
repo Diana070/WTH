@@ -1,0 +1,11 @@
+{
+  "France": [
+    {
+      "cityZh": "巴黎",
+      "cityEn": "paris",
+      "lat": "48.8566",
+      "lon": "2.3522",
+      "timezone": "Europe/Paris"
+    }
+  ]
+}
